@@ -6,12 +6,13 @@
 <p>Ao utilizar essa aplicação o usuário será capaz de:</p>
 <ul>
   <li>Adicionar e remover um gasto</li>
-  <li>Visualizar uma tabela com seus gastos/li>
+  <li>Visualizar uma tabela com seus gastos</li>
   <li>Visualizar o total de gastos convertidos para uma moeda de escolha</li>
 </ul>
 <br />
 <i><p>This was a Front-End Module project in the Trybe Software Development course.</p>
 <p>In this project, a cost control portfolio with a currency converter was developed.</p>
+<p>By using this application the user will be able to:</p>
 <ul>
   <li>Add and remove an expense</li>
   <li>View a table with your expenses</li>
